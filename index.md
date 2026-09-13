@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Fausto Xavier de Leon Pichardo
+# Fausto Xavier De Leon Pichardo
 
 ## Data Analyst | Business Intelligence | Power BI
 
@@ -17,7 +17,7 @@ Analista de datos orientado a Business Intelligence, con experiencia en análisi
 
 Ingeniero de Sistemas enfocado en transformar datos en información útil para la toma de decisiones. Combino experiencia en operaciones y liderazgo con herramientas de análisis y Business Intelligence.
 
-Mi enfoque técnico incluye Python, Pandas, SQL Server, T-SQL, Power Query, DAX y Power BI.
+Mi enfoque técnico incluye Python, Pandas, SQL Server, T-SQL, Power Query, DAX, Dax Studio y Power BI.
 
 ---
 
@@ -33,7 +33,7 @@ Pipeline completo de datos desde Excel hasta SQL Server y Power BI.
 
 ### 02 · FIFA World Cup 2026 Analytics
 
-Proyecto de análisis de rendimiento y scouting aplicado a la Copa Mundial FIFA 2026, con exploración de datos en Python y visualización en Power BI.
+Proyecto de análisis de rendimiento y scouting aplicado a la Copa Mundial FIFA 2026, con exploración de datos en Python y visualización en Power BI, actualmente en proceso de culminación.
 
 **Python · Pandas · Power BI · DAX · Data Visualization**
 
@@ -41,7 +41,7 @@ Proyecto de análisis de rendimiento y scouting aplicado a la Copa Mundial FIFA 
 
 ### 03 · Call Center Analytics
 
-Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de contacto.
+Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de contacto aprovechando mi experiencia como supervisor.
 
 **Python · SQL Server · Power BI**
 
@@ -57,6 +57,10 @@ Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de
 
 **Data Modeling:** Star Schema · Semantic Models · Relationships · Measures
 
+**Data Optimization:** DAX Studio · VertiPaq Analyzer ·
+
+**Cloud & Systems:** Microsoft Azure Fundamentals · Infraestructura Windows.
+
 ---
 
 ## Experiencia
@@ -64,7 +68,7 @@ Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de
 ### Teleperformance Dominicana
 **Supervisor de Operaciones / Team Lead**
 
-Liderazgo de equipos bilingües, seguimiento de KPIs operativos y análisis de indicadores como AHT, CSAT y QA Score para apoyar la toma de decisiones.
+Liderazgo de equipos bilingües, seguimiento de KPIs operativos y análisis de indicadores como AHT, CSAT, Refund rate, Adherence y QA Score para apoyar la toma de decisiones.
 
 ### Scotiabank Dominicana
 **Auxiliar de Gestión Documental**
@@ -80,12 +84,15 @@ Gestión y seguimiento de procesos operativos de entrada y salida.
 
 ## Formación y certificaciones
 
-- Microsoft Power BI — PL-300
-- Microsoft Azure Fundamentals
-- SQLBI — Introducing DAX
-- DAX Studio / VertiPaq Analyzer
+- Universidad APEC - Ingeniero en sistemas de computación
+- Microsoft Learn — Microsoft Power BI — PL-300 (Certificable el proximo 28 de septiembre)
 - Microsoft Learn — DP-080: Querying Data with Microsoft Transact-SQL
-- Formación en Power BI y diseño de bases de datos
+- Microsoft Learn — Microsoft Azure Fundamentals
+- SQLBI — Introducing DAX
+- SQLBI - DAX Studio / VertiPaq Analyzer
+- CENTU - Formación en Power BI
+- CENTU - Diseño de bases de datos
+- Instituto Politécnico Loyola - Inglés Avanzado (C2)
 
 ---
 
