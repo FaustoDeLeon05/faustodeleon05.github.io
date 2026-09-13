@@ -97,11 +97,11 @@ Gestión y seguimiento de procesos operativos de entrada y salida.
 - Universidad APEC — Ingeniero en Sistemas de Computación
 - Microsoft Learn — Microsoft Power BI — PL-300 (certificación prevista para el 28 de septiembre de 2026)
 - Microsoft Learn — DP-080: Querying Data with Microsoft Transact-SQL
-- Microsoft Learn — Microsoft Azure Fundamentals
+- Microsoft Learn — Microsoft Azure Fundamentals (Ruta de aprendizaje)
 - SQLBI — Introducing DAX
 - SQLBI — DAX Studio / VertiPaq Analyzer
-- CENTU — Formación en Power BI
-- CENTU — Diseño de bases de datos
+- CENTU — Formación en Microsoft Power BI
+- CENTU — Diseño y mantenimiento de bases de datos
 - Instituto Politécnico Loyola — Inglés Avanzado (C2)
 
 ---
