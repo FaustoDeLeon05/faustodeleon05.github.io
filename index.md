@@ -17,7 +17,7 @@ Analista de datos orientado a Business Intelligence, con experiencia en análisi
 
 Ingeniero de Sistemas enfocado en transformar datos en información útil para la toma de decisiones. Combino experiencia en operaciones y liderazgo con herramientas de análisis y Business Intelligence.
 
-Mi enfoque técnico incluye Python, Pandas, SQL Server, T-SQL, Power Query, DAX, Dax Studio y Power BI.
+Mi enfoque técnico incluye Python, Pandas, SQL Server, T-SQL, Power Query, DAX, DAX Studio y Power BI.
 
 ---
 
@@ -25,11 +25,17 @@ Mi enfoque técnico incluye Python, Pandas, SQL Server, T-SQL, Power Query, DAX,
 
 ### 01 · Sales Analytics End-to-End
 
-Pipeline completo de datos desde Excel hasta SQL Server y Power BI.
+<img src="https://github.com/user-attachments/assets/ec4aabe2-3f78-46e5-9d28-5a5ceb80be6f" alt="Sales Analytics - Executive Overview" width="100%">
+
+**End-to-end data pipeline:** Excel → Python ETL → SQL Server → Power BI.
+
+Proyecto orientado a transformar datos operativos de ventas y gastos en información para la toma de decisiones. Incluye validaciones de calidad, modelo semántico con dimensión de fechas, medidas DAX, RLS, bookmarks, drillthrough y tooltips personalizados.
 
 **Python · Pandas · SQLAlchemy · SQL Server · T-SQL · Power Query · DAX · Power BI**
 
-[Ver proyecto en GitHub](https://github.com/FaustoDeLeon05/Sales-Analytics-EndToEnd)
+**[Ver proyecto en GitHub →](https://github.com/FaustoDeLeon05/Sales-Analytics-EndToEnd)**
+
+---
 
 ### 02 · FIFA World Cup 2026 Analytics
 
@@ -37,11 +43,15 @@ Proyecto de análisis de rendimiento y scouting aplicado a la Copa Mundial FIFA 
 
 **Python · Pandas · Power BI · DAX · Data Visualization**
 
-[Ver proyecto en GitHub](https://github.com/FaustoDeLeon05/FIFA-WorldCup-2026-Analytics)
+**[Ver proyecto en GitHub →](https://github.com/FaustoDeLeon05/FIFA-WorldCup-2026-Analytics)**
+
+---
 
 ### 03 · Call Center Analytics
 
-Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de contacto aprovechando mi experiencia como supervisor.
+**Coming Soon**
+
+Proyecto End-to-End de análisis de operaciones de un centro de contacto, aprovechando experiencia en supervisión y seguimiento de KPIs operativos.
 
 **Python · SQL Server · Power BI**
 
@@ -57,9 +67,9 @@ Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de
 
 **Data Modeling:** Star Schema · Semantic Models · Relationships · Measures
 
-**Data Optimization:** DAX Studio · VertiPaq Analyzer ·
+**Data Optimization:** DAX Studio · VertiPaq Analyzer
 
-**Cloud & Systems:** Microsoft Azure Fundamentals · Infraestructura Windows.
+**Cloud & Systems:** Microsoft Azure Fundamentals · Infraestructura Windows
 
 ---
 
@@ -68,7 +78,7 @@ Próximamente · Proyecto End-to-End de análisis de operaciones de un centro de
 ### Teleperformance Dominicana
 **Supervisor de Operaciones / Team Lead**
 
-Liderazgo de equipos bilingües, seguimiento de KPIs operativos y análisis de indicadores como AHT, CSAT, Refund rate, Adherence y QA Score para apoyar la toma de decisiones.
+Liderazgo de equipos bilingües, seguimiento de KPIs operativos y análisis de indicadores como AHT, CSAT, Refund Rate, Adherence y QA Score para apoyar la toma de decisiones.
 
 ### Scotiabank Dominicana
 **Auxiliar de Gestión Documental**
@@ -84,15 +94,15 @@ Gestión y seguimiento de procesos operativos de entrada y salida.
 
 ## Formación y certificaciones
 
-- Universidad APEC - Ingeniero en sistemas de computación
-- Microsoft Learn — Microsoft Power BI — PL-300 (Certificable el proximo 28 de septiembre)
+- Universidad APEC — Ingeniero en Sistemas de Computación
+- Microsoft Learn — Microsoft Power BI — PL-300 (certificación prevista para el 28 de septiembre de 2026)
 - Microsoft Learn — DP-080: Querying Data with Microsoft Transact-SQL
 - Microsoft Learn — Microsoft Azure Fundamentals
 - SQLBI — Introducing DAX
-- SQLBI - DAX Studio / VertiPaq Analyzer
-- CENTU - Formación en Power BI
-- CENTU - Diseño de bases de datos
-- Instituto Politécnico Loyola - Inglés Avanzado (C2)
+- SQLBI — DAX Studio / VertiPaq Analyzer
+- CENTU — Formación en Power BI
+- CENTU — Diseño de bases de datos
+- Instituto Politécnico Loyola — Inglés Avanzado (C2)
 
 ---
 
