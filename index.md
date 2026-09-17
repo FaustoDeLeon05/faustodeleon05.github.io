@@ -9,7 +9,7 @@ title: Home
 
 Analista de datos orientado a **Business Intelligence**, con experiencia en análisis de KPIs, automatización de procesos ETL, modelado de datos y desarrollo de soluciones analíticas en Power BI.
 
-[GitHub](https://github.com/FaustoDeLeon05) · [LinkedIn](https://www.linkedin.com/in/fausto-xavier-de-leon-pichardo-b42874269/)
+[GitHub](https://github.com/FaustoDeLeon05) · [LinkedIn](https://www.linkedin.com/in/fausto-xavier-de-leon-pichardo-bi2026/)
 
 ---
 
@@ -25,9 +25,10 @@ Mi enfoque técnico incluye **Python, Pandas, SQL Server, T-SQL, Power Query, DA
 
 ### 01 · Sales Analytics End-to-End
 
-<img src="https://github.com/user-attachments/assets/a3da0dcc-35cd-44c0-b17f-0e5990103c5a"
-     alt="Executive Overview"
-     style="width: 100%; height: auto;">
+https://github.com/user-attachments/assets/3ae681b1-7b12-4244-93df-608a16d6f4e7
+
+https://github.com/user-attachments/assets/b3e5177d-7367-4a89-bfeb-095e1984f226
+
      
 **End-to-end data pipeline:** Excel → Python ETL → SQL Server → Power BI.
 
