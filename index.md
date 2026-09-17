@@ -25,10 +25,15 @@ Mi enfoque técnico incluye **Python, Pandas, SQL Server, T-SQL, Power Query, DA
 
 ### 01 · Sales Analytics End-to-End
 
-https://github.com/user-attachments/assets/3ae681b1-7b12-4244-93df-608a16d6f4e7
+<video controls style="width: 100%; height: auto; border-radius: 8px;">
+  <source src="https://github.com/user-attachments/assets/3ae681b1-7b12-4244-93df-608a16d6f4e7" type="video/mp4">
+  Tu navegador no soporta la reproducción de este video.
+</video>
 
-https://github.com/user-attachments/assets/b3e5177d-7367-4a89-bfeb-095e1984f226
-
+<video controls style="width: 100%; height: auto; border-radius: 8px;">
+  <source src="https://github.com/user-attachments/assets/b3e5177d-7367-4a89-bfeb-095e1984f226" type="video/mp4">
+  Tu navegador no soporta la reproducción de este video.
+</video>
      
 **End-to-end data pipeline:** Excel → Python ETL → SQL Server → Power BI.
 
