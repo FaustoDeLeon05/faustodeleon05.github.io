@@ -41,6 +41,8 @@ Proyecto orientado a transformar datos operativos de ventas y gastos en informac
 
 <img width="100%" style="max-width: 900px; height: auto;" alt="Pagina 1" src="https://github.com/user-attachments/assets/09bd1184-bf69-4a7b-80e7-fd81d2eb8b85" />
 
+**Dataset sintético → Python / Pandas → EDA & Data Quality → Modelo Dimensional → DAX → Power BI**
+
 Proyecto de análisis de **rendimiento de jugadores y scouting** aplicado a la Copa Mundial FIFA 2026. Incluye exploración de datos con Python/Pandas, modelado dimensional y trabajo de optimización en Power BI mediante DAX Studio y VertiPaq Analyzer.
 
 **Python · Pandas · Power BI · DAX · DAX Studio · VertiPaq Analyzer**
