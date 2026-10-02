@@ -39,11 +39,11 @@ Proyecto orientado a transformar datos operativos de ventas y gastos en informac
 
 ### 02 · FIFA World Cup 2026 Analytics
 
+<img width="100%" style="max-width: 900px; height: auto;" alt="Pagina 1" src="https://github.com/user-attachments/assets/09bd1184-bf69-4a7b-80e7-fd81d2eb8b85" />
+
 Proyecto de análisis de **rendimiento de jugadores y scouting** aplicado a la Copa Mundial FIFA 2026. Incluye exploración de datos con Python/Pandas, modelado dimensional y trabajo de optimización en Power BI mediante DAX Studio y VertiPaq Analyzer.
 
 **Python · Pandas · Power BI · DAX · DAX Studio · VertiPaq Analyzer**
-
-**Estado:** En desarrollo / próxima iteración del portafolio.
 
 **[Ver proyecto en GitHub →](https://github.com/FaustoDeLeon05/FIFA-WorldCup-2026-Analytics)**
 
