@@ -43,7 +43,7 @@ Proyecto orientado a transformar datos operativos de ventas y gastos en informac
 
 **Dataset sintético → Python / Pandas → EDA & Data Quality → Modelo Dimensional → DAX → Power BI**
 
-Proyecto de análisis de **rendimiento de jugadores y scouting** aplicado a la Copa Mundial FIFA 2026. Incluye exploración de datos con Python/Pandas, modelado dimensional y trabajo de optimización en Power BI mediante DAX Studio y VertiPaq Analyzer.
+Proyecto de análisis de **rendimiento de jugadores y scouting** aplicado a la Copa Mundial FIFA 2026. Incluye exploración de datos con Python/Pandas, modelado dimensional y trabajo de optimización en Power BI mediante DAX Studio y VertiPaq Analyzer, como futura fase 2 del proyecto.
 
 **Python · Pandas · Power BI · DAX · DAX Studio · VertiPaq Analyzer**
 
@@ -105,7 +105,7 @@ Gestión y seguimiento de procesos operativos de entrada y salida.
 ## Formación y certificaciones
 
 - **Universidad APEC** — Ingeniería en Sistemas de Computación
-- **Microsoft Learn** — Power BI / PL-300 — certificación prevista para el 28 de septiembre de 2026
+- **Microsoft Learn** — Power BI / PL-300 — certificación prevista para el 15 de octubre de 2026
 - **Microsoft Learn** — DP-080: Querying Data with Microsoft Transact-SQL
 - **Microsoft Learn** — Microsoft Azure Fundamentals
 - **SQLBI** — Introducing DAX
@@ -120,4 +120,4 @@ Gestión y seguimiento de procesos operativos de entrada y salida.
 
 ¿Buscas un perfil orientado a **Data Analytics, Business Intelligence y análisis de KPIs**?
 
-[GitHub](https://github.com/FaustoDeLeon05) · [LinkedIn](https://www.linkedin.com/in/fausto-xavier-de-leon-pichardo-b42874269/)
+[GitHub](https://github.com/FaustoDeLeon05) · [LinkedIn](https://www.linkedin.com/in/fausto-xavier-de-leon-pichardo-bi2026/)
